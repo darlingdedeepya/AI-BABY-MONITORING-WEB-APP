@@ -3,7 +3,7 @@ objects = [];
 status = "";
 
 function preload(){
-    song = loadSound("alert.wav");
+    song = loadSound("alarm.mp3");
 }
 
 function setup(){
